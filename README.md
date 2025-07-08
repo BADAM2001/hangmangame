@@ -27,9 +27,20 @@ A classic word-guessing game where players must guess letters to reveal a hidden
 - **Minimum SDK**: 21 (Android 5.0+)
 
 ## Screenshots
-| Splash Screen | Main Menu | Game Screen |
-|--------------|----------|------------|
-| <img src="screenshots/splash.jpg" width=200> | <img src="screenshots/menu.jpg" width=200> | <img src="screenshots/game.jpg" width=200> |
+### 1. Splash Screen
+<img src="https://github.com/BADAM2001/hangmangame/raw/e26261fea477e045f59e42fafa05d6e9965629b1/splash.jpg" width="250">
+
+### 2. Main Menu
+<img src="https://github.com/BADAM2001/hangmangame/raw/e26261fea477e045f59e42fafa05d6e9965629b1/main.jpg" width="250">
+
+### 3. Game Screen
+<img src="https://github.com/BADAM2001/hangmangame/raw/e26261fea477e045f59e42fafa05d6e9965629b1/game.jpg" width="250">
+
+### 4. Voice Input Feature
+<img src="https://github.com/BADAM2001/hangmangame/raw/e26261fea477e045f59e42fafa05d6e9965629b1/voice%20input.jpg" width="250">
+
+### 5. Game Completion (Win/Lose)
+<img src="https://github.com/BADAM2001/hangmangame/raw/e26261fea477e045f59e42fafa05d6e9965629b1/last%20section.jpg" width="250">
 
 ## Installation
 1. Clone this repository
