@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="180dp"
+    android:viewportWidth="120"
+    android:viewportHeight="180">
+    <!-- Base -->
+    <path
+        android:pathData="M20,160 L100,160"
+        android:strokeWidth="4"
+        android:strokeColor="#795548"/>
+    <!-- Pole -->
+    <path
+        android:pathData="M60,160 L60,20"
+        android:strokeWidth="4"
+        android:strokeColor="#795548"/>
+    <!-- Top beam -->
+    <path
+        android:pathData="M60,20 L100,20"
+        android:strokeWidth="4"
+        android:strokeColor="#795548"/>
+    <!-- Rope -->
+    <path
+        android:pathData="M100,20 L100,30"
+        android:strokeWidth="2"
+        android:strokeColor="#000000"/>
+</vector>

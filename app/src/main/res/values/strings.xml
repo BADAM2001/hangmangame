@@ -1,0 +1,5 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Don\'t Hang Me!</string>
+    <string name="splash_title">Don\'t Hang Me!</string>
+</resources>

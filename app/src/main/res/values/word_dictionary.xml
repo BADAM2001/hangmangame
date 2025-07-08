@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="game_words">
+        <item>apple banana orange mango</item>
+        <item>computer keyboard mouse</item>
+        <item>android java kotlin</item>
+    </string-array>
+</resources>

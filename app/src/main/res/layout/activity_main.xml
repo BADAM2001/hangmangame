@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <!-- Header with logo and app name -->
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/app_logo"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Don't Hang Me!"
+            android:textSize="24sp"
+            android:textColor="#000000"
+            android:fontFamily="serif"
+            android:layout_marginStart="16dp"/>
+    </LinearLayout>
+
+    <!-- Buttons container -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:padding="32dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_play"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:text="Play"
+            android:background="@drawable/button_style"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"/>
+
+        <Button
+            android:id="@+id/btn_quit"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:text="Quit"
+            android:background="@drawable/button_style"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="24dp"
+            android:textSize="18sp"/>
+    </LinearLayout>
+</RelativeLayout>
